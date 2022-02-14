@@ -1,6 +1,6 @@
 ## About me
 
- ```ruby
+ ```python
 Name = "Sathana Laolugsanalerd"
 NickName = "Mark"
 Age = 18
