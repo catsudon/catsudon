@@ -1,6 +1,6 @@
 <p align="right">
-   <img src="https://hit.yhype.me/github/profile?user_id=52562864"> 
-</p>
+
+   
 <div display="flex" align="center" >
    <h1> 🌟 Sawaddee-Kub </h1> 
 
