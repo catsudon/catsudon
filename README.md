@@ -1,8 +1,7 @@
 <p align="right">
    <img src="https://komarev.com/ghpvc/?username=mark48853&color=ff69b4&style=flat-square&label=จำนวนคน+ส่+อ+ง"> 
 </p>
-
-<h1 align="center">Sawaddee-Kub</h1> 
+<h1 align="center"> Sawaddee-Kub </h1> 
 
 
 ## 📊 Stats
