@@ -1,5 +1,5 @@
 <p align="right">
-   <img src="https://komarev.com/ghpvc/?username=mark48853&color=ff69b4&style=flat-square&label=จำนวนคน+ส่+อ+ง"> 
+   <img src="https://hit.yhype.me/github/profile?user_id=52562864"> 
 </p>
 <div display="flex" align="center" >
    <h1> 🌟 Sawaddee-Kub </h1> 
