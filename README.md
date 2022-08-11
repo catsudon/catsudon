@@ -1,4 +1,4 @@
-<h1 align="center"> Sawaddee-Kub </h1> 
+<h1 align="center">Sawaddee-Kub</h1> 
 
 
 ## 📊 Stats
