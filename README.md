@@ -1,7 +1,7 @@
 <p align="right">
    <img src="https://komarev.com/ghpvc/?username=mark48853&color=ff69b4&style=flat-square&label=จำนวนคน+ส่+อ+ง"> 
 </p>
-<div display="flex" >
+<div display="flex" align="center" >
    <h1> Sawaddee-Kub </h1> 
 
 
