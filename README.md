@@ -21,5 +21,6 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mark48853&count_private=true)
 <br/>
 [![wakatime](https://wakatime.com/badge/user/9d9be7f5-c46f-4562-ad75-671c7720327d.svg)](https://wakatime.com/@9d9be7f5-c46f-4562-ad75-671c7720327d)
-  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
