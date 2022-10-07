@@ -13,7 +13,10 @@
 
 </div>
    
-## 🙏 
+## 🌟 About Me
+- Student at Chulalongkorn University, Computer Engineering (Intania 106, CP49)
+- part-timing @Sabuy-Digital as chatbot dev.
+- **lazy af**
 
 ## 📊 Stats
 <div display="flex" align="center" > 
