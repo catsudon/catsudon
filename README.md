@@ -27,3 +27,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mark48853)](https://git.io/streak-stats)
    <br/>
 [![wakatime](https://wakatime.com/badge/user/b2ef7477-fbec-4fb4-a824-1f4d4ee4f697.svg)](https://wakatime.com/@b2ef7477-fbec-4fb4-a824-1f4d4ee4f697)
+
+## 🔗 Social Accounts
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100068956133169)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mark.llsl/)
+[![myanimelist](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/markmarker)
