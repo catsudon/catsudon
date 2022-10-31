@@ -16,7 +16,8 @@
 ## 🌟 About Me
 - Student at Chulalongkorn University, Computer Engineering (Intania 106, CP49)
 - freelancing @Sabuy-Digital as chatbot dev.
-- **too lazy to write anything more than this**
+- learning webdev.
+- I create AI arts on [pixiv](https://www.pixiv.net/users/21497372).
 
 ## 📊 Stats
 <div display="flex" align="center" > 
@@ -25,7 +26,8 @@
 ![](https://raw.githubusercontent.com/mark48853/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 <br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mark48853)](https://git.io/streak-stats)
-   (this streaks come from github actions, I'm not a psychopath who codes everyday🤡.)
+   <br/>
+   (this streaks come from github actions.)
    <br/>
 [![wakatime](https://wakatime.com/badge/user/b2ef7477-fbec-4fb4-a824-1f4d4ee4f697.svg)](https://wakatime.com/@b2ef7477-fbec-4fb4-a824-1f4d4ee4f697)
 
