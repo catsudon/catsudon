@@ -15,7 +15,7 @@
    
 ## 🌟 About Me
 - Student at Chulalongkorn University, Computer Engineering (Intania 106, CP49)
-- Freelancing @Sabuy-Digital as chatbot dev.
+- Part-time @Sabuy-Digital as chatbot dev.
 - Learning web development.
 <!-- - I create AI Arts on [pixiv](https://www.pixiv.net/users/21497372). -->
 
