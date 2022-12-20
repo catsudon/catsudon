@@ -13,14 +13,14 @@
 </div>
    
 ## ⚡️ A Few Quick Facts
-<img width="200px" align="right" src="https://raw.githubusercontent.com/mark48853/mark48853/main/bocchi.gif" />
+<img width="230px" align="right" src="https://raw.githubusercontent.com/mark48853/mark48853/main/bocchi.gif" />
 <ul>
 <li> Student at Chulalongkorn University, Computer Engineering (Intania 106, CP49) </li>
 <li> Part-time @Sabuy-Digital as chatbot dev. </li>
 <li> Learning web development. </li>
 </ul>
 <!-- - I create AI Arts on [pixiv](https://www.pixiv.net/users/21497372). -->
-<br/>\
+<br/>
 <br/>
 
 ## 📊 Stats
