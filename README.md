@@ -15,7 +15,8 @@
 <img width="230px" align="right" src="https://raw.githubusercontent.com/mark48853/mark48853/main/bocchi.gif" />
 <ul>
 <li> Student at Chulalongkorn University, Computer Engineering (Intania 106, CP49) </li>
-<li> Part-time @Sabuy-Digital as chatbot dev. </li>
+<li> I've got a bronze medal from 17th Thailand Olympiad in Informatics (2021)</li>
+<li> Part-timing @Sabuy-Digital as chatbot dev. </li>
 <li> Learning web development. </li>
 </ul>
 <!-- - I create AI Arts on [pixiv](https://www.pixiv.net/users/21497372). -->
