@@ -13,7 +13,7 @@
 </div>
    
 ## ⚡️ A Few Quick Facts
-<img width="400px" align="right" src="https://raw.githubusercontent.com/mark48853/mark48853/main/bocchi.gif" />
+<img width="200px" align="right" src="https://raw.githubusercontent.com/mark48853/mark48853/main/bocchi.gif" />
 <ul>
 <li> Student at Chulalongkorn University, Computer Engineering (Intania 106, CP49) </li>
 <li> Part-time @Sabuy-Digital as chatbot dev. </li>
@@ -22,13 +22,14 @@
 <!-- - I create AI Arts on [pixiv](https://www.pixiv.net/users/21497372). -->
 <br/>\
 <br/>
+
 ## 📊 Stats
 <div display="flex" align="center" > 
 
 ![](https://raw.githubusercontent.com/mark48853/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/mark48853/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 <br/>
-   <br/>
+<br/>
 [![wakatime](https://wakatime.com/badge/user/b2ef7477-fbec-4fb4-a824-1f4d4ee4f697.svg)](https://wakatime.com/@b2ef7477-fbec-4fb4-a824-1f4d4ee4f697)
 
 ## 🔗 Social Accounts
