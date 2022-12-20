@@ -25,6 +25,7 @@
 ![](https://raw.githubusercontent.com/mark48853/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/mark48853/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 <br/>
+   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mark48853)
    <br/>
 [![wakatime](https://wakatime.com/badge/user/b2ef7477-fbec-4fb4-a824-1f4d4ee4f697.svg)](https://wakatime.com/@b2ef7477-fbec-4fb4-a824-1f4d4ee4f697)
 
