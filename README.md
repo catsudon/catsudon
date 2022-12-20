@@ -1,6 +1,5 @@
 
 <!--p align="right">
-   mostly me - - >  
    <img src="https://komarev.com/ghpvc/?username=mark48853&color=ff69b4&style=flat-square&label=จำนวนคน+ส่+อ+ง"> 
 
 </p-->
@@ -13,10 +12,12 @@
 
 </div>
    
-## 🌟 About Me
+## ⚡️ A Few Quick Facts
+<img width="400px" align="right" src="https://raw.githubusercontent.com/mark48853/mark48853/main/bocchi.gif" />
 - Student at Chulalongkorn University, Computer Engineering (Intania 106, CP49)
 - Part-time @Sabuy-Digital as chatbot dev.
 - Learning web development.
+- Fun Fact: I love tomatoes.
 <!-- - I create AI Arts on [pixiv](https://www.pixiv.net/users/21497372). -->
 
 ## 📊 Stats
