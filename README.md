@@ -16,7 +16,7 @@
 <ul>
 <li> Student at Chulalongkorn University, Computer Engineering (Intania 106, CP49) </li>
 <li> Bronze Medal award from 17th Thailand Olympiad in Informatics (2021)</li>
-<li> Part-timing @Sabuy-Digital as chatbot dev. </li>
+<!-- <li> Part-timing @Sabuy-Digital as chatbot dev. </li> -->
 <li> Learning web development. </li>
 </ul>
 <!-- - I create AI Arts on [pixiv](https://www.pixiv.net/users/21497372). -->
