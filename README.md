@@ -9,19 +9,6 @@
 
    <img width="240px" src="https://github.com/mark48853/mark48853/blob/main/%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A-%E0%B8%8A%E0%B8%A1%E0%B8%A3%E0%B8%A1.gif?raw=true">  
 
-</div>
-   
-## ⚡️ A Few Quick Facts
-<img width="270px" align="right" src="https://raw.githubusercontent.com/mark48853/mark48853/main/bocchi.gif" />
-<ul>
-<li> Student at Chulalongkorn University, Computer Engineering (Intania 106, CP49) </li>
-<li> Bronze Medal award from 17th Thailand Olympiad in Informatics (2021)</li>
-<!-- <li> Part-timing @Sabuy-Digital as chatbot dev. </li> -->
-<li> Learning web development. </li>
-</ul>
-<!-- - I create AI Arts on [pixiv](https://www.pixiv.net/users/21497372). -->
-<br/>
-<br/>
 
 ## 📊 Stats
 <div display="flex" align="center" > 
