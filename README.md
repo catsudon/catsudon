@@ -26,7 +26,7 @@
 
 - 🔬 First-author paper at **iSAI-NLP 2025** (indexed in IEEE Xplore)
 - 🎓 CU Engineering **CP49**, graduated May 2026
-- 🃏 TCG enthusiast — Battle of Talingchan, Yu-Gi-Oh! Master Duel & Cardfight!! Vanguard
+- 🃏 TCG enthusiast — Pokémon TCG, Battle of Talingchan, Yu-Gi-Oh! Master Duel & Cardfight!! Vanguard
 - 📫 **Sathanalao@hotmail.com** · [LinkedIn](https://www.linkedin.com/in/sathana-l-8940451a1/)
 
 ---
